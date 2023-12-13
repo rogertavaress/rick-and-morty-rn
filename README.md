@@ -1,9 +1,7 @@
 # Rick and Morty - React Native App
 
-<div style="background-color: red; display: flex; flex-wrap: no-wrap;">
-    <img style="flex: 1" src="https://rickandmortyapi.com/api/character/avatar/1.jpeg" />
-    <img style="flex: 1" src="https://rickandmortyapi.com/api/character/avatar/2.jpeg" />
-</div>
+<img style="flex: 1" src="https://rickandmortyapi.com/api/character/avatar/1.jpeg" />
+<img style="flex: 1" src="https://rickandmortyapi.com/api/character/avatar/2.jpeg" />
 
 ## Tecnologias usadas
 
@@ -27,18 +25,16 @@ Além disso, foram criados templates reutilizáveis que podem ser aplicados em d
 
 ### Início
 
-<img src="./docs/images/home.png" style="max-height: 600px" />
+<img src="./docs/images/home.png" />
 
 ### Detalhes
 
-<img src="./docs/images/details.png" style="max-height: 600px" />
+<img src="./docs/images/details.png" />
 
 ### Animação
 
-<div style="background-color: red; display: flex; flex-wrap: no-wrap;max-height: 600px;">
-    <img style="max-height: 600px;" src="./docs/images/screen-home-list.gif" />
-    <img style="max-height: 600px;" src="./docs/images/screens-animation.gif" />
-</div>
+<img src="./docs/images/screen-home-list.gif" />
+<img src="./docs/images/screens-animation.gif" />
 
 ## Configuração
 
